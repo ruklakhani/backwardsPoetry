@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 import random as random
-=======
 import random 
->>>>>>> 377ef537196a508bd8522c5fd1c3cdc384a29655
 
 poem ="""Our generation will be known for nothing.
 Never will anybody say,
@@ -30,7 +27,6 @@ That might be true,
 Unless we turn things around"""
 
 poems = poem.split("\n")
-<<<<<<< HEAD
 
 #TODO: get a list of strings that contains lines of poem
 
@@ -65,5 +61,3 @@ def rearrange():
 printBackwards(poems)
 printRandom(poems)
 rearrange()
-=======
->>>>>>> 377ef537196a508bd8522c5fd1c3cdc384a29655
